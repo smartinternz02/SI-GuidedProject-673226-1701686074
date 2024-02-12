@@ -1,0 +1,53 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: url('./image2.avif') center/cover fixed no-repeat; /* Replace 'path/to/your/image.jpg' with the actual path to your background image */
+    overflow: hidden;
+}
+
+/* .blur-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: inherit;
+    filter: blur(8px); Adjust the blur radius as needed
+    z-index: -1;
+} */
+
+/* .result-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.8); Semi-transparent white background
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}*/
+
+h1 {
+    color:rgb(246, 247, 240);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 270px;
+    
+}
+
+/* .result-text { */
+    /* margin-top: 70px;
+    font-size: 18px;
+    color: rgb(11, 26, 241);
+    text-align: center;
+    font-family: cursive; */
+/* } */
+
+/* Additional styling for the p tag if needed */
+p {
+    font-size: 50px;
+    color:rgb(16, 9, 240);
+    text-align: center;
+    margin-top: 70px;
+}
